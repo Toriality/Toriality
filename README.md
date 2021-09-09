@@ -1,4 +1,4 @@
-## Hello!
+## 💚 𝓗𝓮𝓵𝓵𝓸, 𝔀𝓸𝓻𝓵𝓭! 💜
 
 <div>
   <a href="http://github.com/Toriality">
@@ -9,9 +9,9 @@
   
 ## 
   
- - 👋 I’m @Toriality
-- 👀 I’m interested in fullstack programming and design
-- 🌱 Currently learning mobile development
+- 💚 - 👋 I’m Pedro, but you can call me <a href="https://github.com/Toriality">@Toriality</a> - or simply Tori
+- 💜 - 👀 Programming is my passion! :) Currently working with fullstack projects and mobile applications
+- 💚 - 🌱 What I'm learning? Well, I'm doing a WordPress course from <a href="https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ">this wondeful youtube channel</a> ^^
 
 <!---
 Toriality/Toriality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
