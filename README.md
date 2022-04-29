@@ -11,7 +11,7 @@
   
 - 👋 I’m Pedro, but you can call me <a href="https://github.com/Toriality">@Toriality</a> - or simply Tori
 - 👀 Programming is my passion! :) I'm working on my Portfolio Website and ScratchBook (a free online notepad site)
-- 🌱 What I'm learning? Well, currently I'm doing this Web Development course from Angela Yu. I'm also improving my skills in React and Redux frameworks by redesigning my first web project, ScratchBook. In the future, I will start making desktop applications using ElectronJS.
+- 🌱 What I'm learning? Well, currently I'm doing this <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development course from Angela Yu</a>. I'm also improving my skills in React and Redux frameworks by redesigning my first web project, <a href="https://my-scratch-book.herokuapp.com">ScratchBook</a>. In the future, I will start making desktop applications using ElectronJS.
 
 <!---
 Toriality/Toriality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
