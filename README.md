@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-**Thank you for taking the time to look at my projects. I am a young developer fueled by passion and a love for pushing my creativity and productivity to the limit!**
+**Thank you for taking the time to look at my projects. I am a young developer fueled by passion and a love for helping people and making creative things!**
 
 ## Programming life
 
