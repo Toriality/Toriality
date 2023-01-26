@@ -44,5 +44,5 @@ I'm trying to maintain a active devlog where I log all the progress of my projec
 [E-mail](mailto:pcrelier@hotmail.com)</br>
 [Main Twitter](https://twitter.com/Toriality1)</br>
 [DYOM Twitter](https://twitter.com/OfficialDYOM)</br>
-[Discord Account](discordapp.com/users/1014898932461080587)</br>
+[Discord Account](https://discordapp.com/users/1014898932461080587)</br>
 [Steam Account](https://steamcommunity.com/id/Toriality)
