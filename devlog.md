@@ -21,7 +21,7 @@ What is left to be done in the code:
 - Define an effective folder structure
 - Refactor and clean up the code (which is currently a total mess)
 
-## DevLog #4 - 28.03.2023
+## DevLog #4 - 28.01.2023
 
 ### DYOM Website
 
