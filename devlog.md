@@ -2,6 +2,25 @@
 
 **Here I'll share all my projects' progress!**
 
+## DevLog #5 - 30.01.2023
+
+Throughout the day, my main goal was on connecting the database with the front-end of the DYOM Website.
+
+Initially I created a debug page to add new missions to the database.
+
+After creating all the components that make up the form needed to add a new mission to the site, the focus was on integrating the file upload... and this was extremely hard to do.
+
+After a good couple of hours, I managed to get the file upload working. It is not 100% complete but it is ready for testing.
+
+Starting tomorrow I will finalize some details and start adding missions to test the features like data validations and organizing folders, names, etc.
+
+What is left to be done in the code:
+
+- A function to upload banner image
+- A function to upload multiple images to the gallery
+- Define an effective folder structure
+- Refactor and clean up the code (which is currently a total mess)
+
 ## DevLog #4 - 28.03.2023
 
 ### DYOM Website
