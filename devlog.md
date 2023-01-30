@@ -2,6 +2,86 @@
 
 **Here I'll share all my projects' progress!**
 
+## DevLog #4 - 28.03.2023
+
+### DYOM Website
+
+Taking a closer look at the navbar menu, I noticed that its design is not very modern, and the fact that it takes up the whole screen may interfere with the user experience.
+
+I decided to follow a suggestion from a friend and made a menu that only takes up about 1/3 of the screen and is positioned at the top.
+
+As a result, I changed almost all the code. Before I used a `<Box` that changed its visibility as needed, and now I'm using a `<Drawer>`, which is a much better alternative for this type of situation, and already has predefined animations which is a good thing. 
+
+![drawer](https://user-images.githubusercontent.com/38092988/215366447-b8047cba-b15e-4a75-ae6f-e20a2975db88.gif)
+
+There was, however, the loss of the general site statistics within the navigation menu.
+
+But this was solved by transferring these statistics to the footer. It is even more elegant and unobtrusive. I think it's definitely in its right place now.
+
+![stats](https://user-images.githubusercontent.com/38092988/215366457-aab0eff8-4bff-4ff1-b14e-83ef5356b525.png)
+
+### DYOM Bingo
+
+After these changes I decided to watch Joshimuz's live to distract myself.
+
+He mentioned the DYOM Bingo, and that was a pretty cool thing. I watched the chat to see if there were any comments about Bingo and to my delight many people were talking about it. Some were asking if with X situation they could check X slot, some were saying they marked X slot, among other fun interactions.
+
+One of the suggestions was to replace "Mission was made this year" with "Mission was made within a year", which makes sense since it is January and it would be almost impossible to mark this slot (Even more so since the DYOM site is having technical problems uploading new missions since the end of last year, so you could say it is an impossible slot to mark now). That said, after the live stream I went to the code to make this change.
+
+A few minutes after I made the change, a user made a comment in my commit saying that this changed the meaning of the sentence, which could cause misinterpretation.
+
+My solution to this was to add a helperText (function that I created a few days ago in version 1.1 of DYOM Bingo) to better explain what this slot meant.
+
+![missionyear](https://user-images.githubusercontent.com/38092988/215366514-45303321-0f59-47c3-8ad1-175de9b8c6ac.png)
+
+To create this text that specifies the dates, I had to create a const that holds the current date, and then use Template Literals in the helperText string to tell the current date and last year's date. This is how the code looks like
+
+```javascript
+// Get current date
+const date = new Date();
+const month = new Intl.DateTimeFormat("en-US", { month: "long" }).format(date);
+const year = date.getFullYear();
+  
+// ...[some slots]...
+  
+  {
+    slotType: "Mission Info",
+    string: "Mission was made within a year",
+    helperText: `This mission was published between ${month}, ${
+      year - 1
+    } and ${month}, ${year}`,
+    needsInfo: true,
+  },
+```
+
+Finally, I cleaned up the code a little and added a few slots. You can check the whole source code here: https://github.com/Toriality/DYOM-Bingo
+
+## DevLog #3 - 27.01.2023
+
+Today there was quite a bit of progress on the homepage of the site. I was able to organize some parts of the code and create new components.
+
+At the beginning of the day I started by organizing the code, which was a bit of a mess. I don't really like having several lines of code in a single React component file, I think it makes the code a bit hard to read for future analysis. So I decided to separate the homepage into small sub-components.
+
+These components are: 
+
+- Banner: The image and call-to-action of the site.
+- TrendingProjects: The two projects with the most clicks and interactions during the last 24 hours
+- LatestNews: The most recent news.
+
+Note that, with the exception of the Banner component, none of the other two components have their functions finished since I haven't made the client-database connection yet.
+
+In the navigation menu (Navbar Component), I created the Menu where practically all the links of the website are. It looks like this:
+
+![menuimg](https://user-images.githubusercontent.com/38092988/215364210-74c3a5f3-a3eb-42c6-9185-f04ae381d927.gif)
+
+I also made a prototype of how the TrendingProjects component would look like, it's not quite complete yet, the image is a little too big and the layout doesn't feel quite right.
+
+Finally I created the Footer component. It currently looks like this:
+
+![footer](https://user-images.githubusercontent.com/38092988/215364247-3a4ed5ac-44cc-4e92-bdf6-d72393557a9b.png)
+
+And that was all my progress for this Friday :)
+
 ## DevLog #2 - 26.01.2023
 
 While taking a short break from DYOM Webiste, I decided to make some major changes to DYOM Bingo.
