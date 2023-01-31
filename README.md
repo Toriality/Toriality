@@ -35,8 +35,6 @@ I'm trying to maintain a active devlog where I log all the progress of my projec
 
 **Python**: Although it's not my strong suit, I love Python for its simplicity and for being able to solve anything from extremely complex problems to small things. I always enjoy using Python in some of my projects and even in my daily life with, for example, scripts to mass-rename files.
 
-**C#**: It is the newest language I am learning. I started using it to learn how to create games in Unity. I still have very little knowledge in C#
-
 **Other**: NSIS, PHP, MySQL. 
 
 ## Social Medias
