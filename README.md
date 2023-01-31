@@ -23,7 +23,7 @@ I'm trying to maintain a active devlog where I log all the progress of my projec
 <div>
   <a href="http://github.com/Toriality">
    <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=toriality&count_private=true&hide=issues&show_icons=true&theme=material-palenight">
-   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&theme=material-palenight&layout=compact">
+   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&exclude_repo=DYOM&theme=material-palenight&layout=compact">
   </a>
 </div>
 
