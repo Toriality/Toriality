@@ -2,6 +2,24 @@
 
 **Here I'll share all my projects' progress!**
 
+## DevLog #6 - 31.01.2023
+
+I have successfully managed the uploads to the database. Now the debug page can perfectly add missions to the database as it was intended to.
+
+![MongoDBCompass_5ir7CJvo17](https://user-images.githubusercontent.com/38092988/215996396-3a9ab6ed-b151-463d-8456-d93bf9c76c6f.png)
+
+I also decided how the directory structure will look like.
+
+![Code_EGKJEW6Zac](https://user-images.githubusercontent.com/38092988/215996453-806d9602-0c6d-476c-a260-cbd9051c72a0.png)
+
+And finally, just for testing, I made a python script to delete all the folders and files whose name does not match any ID inside the database. This is important because when a mission is deleted completely from the database, its entry there is deleted, but the files that were uploaded remain on the server, taking up important storage space. So by deleting these directories, we clean up unnecessary folders and gain more storage space.
+
+I also made a few visual changes to the site:
+
+![opera_g3Zk9JszCu](https://user-images.githubusercontent.com/38092988/215996497-a7502fc5-43a0-41b4-90e1-de50dc188f64.png)
+
+Now the idea is to create an official page to add missions, with a good look and functionality for the best user experience.
+
 ## DevLog #5 - 30.01.2023
 
 Throughout the day, my main goal was on connecting the database with the front-end of the DYOM Website.
