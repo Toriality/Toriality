@@ -2,6 +2,24 @@
 
 **Here I'll share all my projects' progress!**
 
+## DevLog #7 - 04.02.2023
+
+Finally, I'm back with the devlogs!!!
+
+Last week I went a few days without electricity because of a truck that passed on the street and took with it some electrical wires together :)
+
+But now the lights are back on and I have some news to show you!
+
+### DYOM Website
+
+I managed to finalize the look and functionality of the add missions page. There are a few visual things I intend to change in some subcomponents, but I'll leave that for later, since they are components I'll reuse in other pages, and they are minor details.
+
+Below is a gif demonstrating the page and one of its features of uploading images:
+
+![Code_5OynWqRNB7](https://user-images.githubusercontent.com/38092988/216808909-fe07ba48-9424-41c1-b706-9cf1306eb71b.gif)
+
+The functions of the page are 100% connected to the database and it is then possible to add new missions through it.
+
 ## DevLog #6 - 31.01.2023
 
 I have successfully managed the uploads to the database. Now the debug page can perfectly add missions to the database as it was intended to.
