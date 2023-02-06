@@ -2,6 +2,30 @@
 
 **Here I'll share all my projects' progress!**
 
+## DevLog #8 - 05.02.2023
+
+Today the site has made a lot of progress I would say.
+
+We start with a new page created: ListMissions. As the name says, this page will show the list of missions.
+
+Besides it there will be a small banner, indicating the page, a "Daily Picks" component and a "Pinned Projects" component. I will explain them both.
+
+- **Daily Picks**: is a function that will be added to the site that does not currently exist on the old site. Every day a mission and a mission-pack will be chosen randomly and automatically to be the daily picks of the day. By interacting with the daily picks, the user will earn points, for example, by downloading a mission, by doing a review, among other things. The idea is to try to give opportunities to all creators equally, while moving the activity and engagement of the site, rewarding users and forming an active and loyal base. Everybody wins.
+- **Pinned Projects**: These are the pinned projects, which already exist on the old site, but in a somewhat disorganized way, joining pins and normal projects in the same table. In this new design, they will be separated and compacted, but keeping a certain emphasis that they deserve.
+
+Below are some images of this new page:
+
+![opera_SQknBkCTbC](https://user-images.githubusercontent.com/38092988/216855833-ecc25a8e-2fd7-4a01-ae05-2330318564fd.png)
+
+![opera_UTDf1TRnS8](https://user-images.githubusercontent.com/38092988/216855845-39c304f9-25e3-4948-befc-3194c14b5e5c.png)
+
+
+Along with the creation of the page, inevitably several new reusable components were created. This is great for organized and reusable code. These include components such as stylized boxes, page selector, filter selector, and a table that shows the projects.
+
+Also some important adjustments were made to the backend, like the project search function and pagination. And at the end of the day, I started the connection between these backend functions and the frontend of the site, but I still haven't finished applying them completely.
+
+Tomorrow I should finish all or a large part of the page and its components.
+
 ## DevLog #7 - 04.02.2023
 
 Finally, I'm back with the devlogs!!!
