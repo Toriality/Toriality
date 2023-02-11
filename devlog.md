@@ -11,6 +11,21 @@
 
 </details>
 
+## DevLog #9 - 10.02.2023
+
+Hello again! I spent some days without having enough time to write the DevLogs, but I didn't stop programming the site during that time ;)
+
+I'll let you all updated about everything new that was done during this period. Below, the main changes and creations made on the site:
+
+- Mission Page: we finally reached one of the most essential sections for the DYOM site! This page renders the mission selected by the user. It shows all the information about the mission, such as title, author, description, specs and more.
+- Reviews Page: Inside the mission page, you will have the ability to visualize and publish reviews. This page is not fully ready yet, there is a lot to do, but the basics and the database connection is already done. There will be many improvements to make, but I will have them done by the time I finish user details, such as a page that displays the profile, edits the profile, and other things.
+- Breadcumbs: a simple navigator between previous pages, for a better user experience
+- WriteReviews component: this component is a modal where the user writes a review
+
+Among other small organization and structural improvements to the code.
+
+Watch out for the next DevLogs, I'll be showing with pictures these new creations and much more!
+
 ## DevLog #8 - 05.02.2023
 
 Today the site has made a lot of progress I would say.
