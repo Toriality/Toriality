@@ -11,6 +11,39 @@
 
 </details>
 
+## Devlog #10 - 13.02.2023
+
+As I promised in the last DevLog, here are some screenshots of the main new front-end features:
+
+<details>
+  <summary>Click to see the images!</summary>
+
+![opera_ewZoNlD9um](https://user-images.githubusercontent.com/38092988/218580120-e6d05271-a266-4656-9e4b-ddf31e612804.gif)
+  
+![opera_DG7VPxBrSQ](https://user-images.githubusercontent.com/38092988/218580146-1e229299-67cb-41d0-afea-43a4bee8cec5.gif)
+  
+![opera_NmJcfV2RSW](https://user-images.githubusercontent.com/38092988/218580156-9ec47fc8-1db8-4798-91de-bce18fb810e2.png)
+
+</details>
+
+Please note that they are not yet 100% finished!
+
+Well, now I feel it's time to step on the brakes a bit. It has been a lot of new features since the start of the site development up until now, and this is great for showcasing the overall style and experience of the site, but every once in a while we need to stop and analyze the structure and the code as a whole - its strengths, weaknesses, repetitions, unnecessary and obsolete code, among other things. And it will be these analysis and improvements that I will be focusing from now on.
+
+This means that we will not have visual updates for a while, I believe it will last a week at most. But this will be very important in the long term because it will transform all the repetitive code that exists today into fully reusable components with a more efficient organization.
+
+It is a really boring part to do, as there are almost no visual or functional changes on the site during this time, so the DevLogs will be shorter this week.
+
+That's it, have a great day <3
+
+Some notes for tomorrow's goals for myself to remember:
+
+- Restructure missionSlice so that it becomes projectSlice (covering missions and mission-packs)
+- Change the MissionPack model and its routing
+- Make the listMissionPacks page
+- Finish making the ProjectInputs component fully functional for both missions and mission-packs
+- (Optional) Organize sx
+
 ## DevLog #9 - 10.02.2023
 
 Hello again! I spent some days without having enough time to write the DevLogs, but I didn't stop programming the site during that time ;)
