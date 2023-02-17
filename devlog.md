@@ -11,6 +11,14 @@
 
 </details>
 
+## Devlog #11 - 16.02.2023
+
+I was able to redo most of the components that were in need of being reusable throughout the site. There are still a few components remaining, I expect everything to be ready by tomorrow or Saturday! 
+
+While I'm doing this organization, I also took some of my time to make the profile page, and I'll have some screenshots to share in a couple days.
+
+To have a closer look at the changes, take a look at the [project's source code](https://github.com/Toriality/DYOM-Website).
+
 ## Devlog #10 - 13.02.2023
 
 As I promised in the last DevLog, here are some screenshots of the main new front-end features:
