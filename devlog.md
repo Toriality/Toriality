@@ -11,6 +11,10 @@
 
 </details>
 
+## Devlog #12 - 17.02.2023
+
+Not much progress today, but I wanted to let you all know that I **might** take a little more time to finish organizing the components. There are only a few components left, but they are quite a lot of work.
+
 ## Devlog #11 - 16.02.2023
 
 I was able to redo most of the components that were in need of being reusable throughout the site. There are still a few components remaining, I expect everything to be ready by tomorrow or Saturday! 
