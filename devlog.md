@@ -11,6 +11,49 @@
 
 </details>
 
+## Devlog #13 - 21.02.2023
+
+In the last few days I have been working on new features and on organizing certain stuff in the database.
+
+First of all, it will now no longer be necessary to repeat the same codes to modify or read the missions and missionpacks database, because both were deleted to form a single database called Projects. This new database will have a discriminator key for missions and mission packs. [This significantly reduces code repetition](https://github.com/Toriality/DYOM-Website/commit/23cf8f1c05736b6241ed05ddd82b79b00107e203).
+
+With that done, we have the first new feature on the backend after many days with no new features to present. It's the **DailyPicks**.
+
+**DailyPicks** is a new collection in the database.
+
+How does it work? Every day at midnight, 2 projects of the type Mission and 2 projects of the type MissionPack are randomly chosen, thus making up 4 DailyPicks.
+
+These four projects will be displayed on the homepage of the site.
+
+There will also be a points system in the future, where interacting with a project that is part of the current DailyPick will award the user with double the points, or something in this sense.
+
+The central idea is to have the site providing a way to benefit as many designers as possible while increasing the engagement of the platform. All designers then have a equal chance of being selected to have a featured position for a day, gaining more visibility, while other users also benefit by receiving points that can be redeemed for other cool stuff.
+
+This entire idea of points is still to be discussed and analyzed in order to implement it in the best possible way. You will surely hear many more changes about the points system and all the features that revolve around it. Also remember that suggestions and feedbacks are always welcome.
+
+Lastly, another new implementation in the backend was the views function. Currently, the DYOM site increments the number of views for a project whenever someone visits the page, this includes page reloads, making it very easy for a single person to reload the page several times to boost the number of views.
+
+We want to avoid this. Therefore the following code was made:
+
+```js
+const cookieName = `view_${type}_${id}`;
+// ...more code...
+if (!req.cookies[cookieName]) {
+        project.updateOne({ $inc: { views: 1 } }).exec();
+        res.cookie(cookieName, true, { maxAge: week });
+      }
+```
+
+What the code does is examine whether the user, when visiting the project page, has the cookie for the project.
+
+If not, the number of views is incremented as usual. And a new cookie is set in the user's browser, corresponding to the project ID (e.g., `view_mission_1384`)
+
+If it does, the number of views is not affected.
+
+The cookie is deleted after one week, to avoid many cookies being stored on the user's browser.
+
+Of course, this system has its flaws. The user can delete the cookies or use a private navigation, but it is still somewhat more efficient than the current system, and we can improve it in the future.
+
 ## Devlog #12 - 17.02.2023
 
 Not much progress today, but I wanted to let you all know that I **might** take a little more time to finish organizing the components. There are only a few components left, but they are quite a lot of work.
