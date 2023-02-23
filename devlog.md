@@ -11,6 +11,16 @@
 
 </details>
 
+## Devlog #14 - 23.02.2023
+
+We have been making some slow progress these days, but soon we will have new features and functionality on the front-end.
+
+Today I implemented a very simple model for **TrendingProjects**.
+
+**TrendingProjects** is a feature that currently works like this: Projects that had the highest number of views during the last 7 days will be highlighted (2 misisons, 2 missionpacks)
+
+As I said, it is still something very simple, in the future it will have a "score" system, that is, the higher the number of interactions, the higher the score, but also considering other variables that influence this score.
+
 ## Devlog #13 - 21.02.2023
 
 In the last few days I have been working on new features and on organizing certain stuff in the database.
