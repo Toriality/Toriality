@@ -12,6 +12,26 @@
 
 </details>
 
+## DevLog #17 - 10.05.2023
+
+Hello everybody!
+
+Today was quite a productive day for the DYOM Bingo project. We have made some cool new contributions and updates.
+
+Firstly, I started the day by making some changes that I have been wanting to make for quite some time now. I have re-organized our repository and its documentation to make it more user-friendly and... well... organized. Here are the new updates:
+
+- **Introduction to Discussions:** We have inaugurated the Discussions feature provided by GitHub, which now provides us with an page for general discussions. It will be very beneficial for community engagement as it allows us to make suggestions, give general ideas, announce changelogs for new versions, create questions, and make simple polls.
+
+- **Code of Conduct:** We have created a documentation outlining our repository's code of conduct, which provides a comprehensive set of guidelines on how our users should behave, in order to provide an respectful and an inclusion space for everyone in our community. [Click here to check the Code of Conduct.](https://github.com/Toriality/DYOM-Bingo/blob/main/.github/CODE_OF_CONDUCT.md)
+
+- **Contributing Guidelines:** We have created a detailed documentation that provides step-by-step instructions on how new contributors can properly contribute to our project. [Click here to check it out!](https://github.com/Toriality/DYOM-Bingo/blob/main/.github/CONTRIBUTING.md)
+
+- **Templates:** We have created templates for both Issues and Pull Requests, which are optional but recommended since they help our users to format their reports in a more readable and appropriate way.
+
+Additionally, I have also worked on an issue that covered an interesting and useful idea. [This is the requested idea](https://github.com/Toriality/DYOM-Bingo/issues/16). And I was able to open a Pull Request from this Issue on the same day! This was my first time opening a PR from an issue, so I'm really happy to have had this experience.
+
+Overall it has been a pretty interesting day and I'm excited to see what more cool stuff will happen. Thanks for reading :smile:
+
 ## DevLog #16 - 09.04.2023
 
 **Greetings everyone,**
