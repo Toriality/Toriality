@@ -16,7 +16,7 @@
 
 I'm trying to maintain a active devlog where I log all the progress of my projects. So if you are interested on knowing in-depth how these projects are being developed feel free to give it a look!
 
-[Link to Toriality's Devlog](./devlog.md)
+[Link to Toriality's Devlog](https://github.com/Toriality/my-devlog.git)
 
 ### Skills
 
