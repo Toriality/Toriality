@@ -12,6 +12,24 @@
 
 </details>
 
+## DevLog #18 - 12.05.2023
+
+Hello everyone, I had a tiring day today, so I'll keep it short because I'm really looking forward to getting some rest. :smile:
+
+### DYOM Bingo:
+
+This morning, I focused on resolving the Pull Request suggestions from the previous days.
+
+[Click here to check it out.](https://github.com/Toriality/DYOM-Bingo/pull/21)
+
+I'll be awaiting for feedback and testing so that I can move forward with the work.
+
+### DYOM Server:
+
+I'm happy to say that the server is finally finished!
+
+Of course, there are still many features that can be added and plenty of room for improvement, but as I mentioned in my previous DevLogs, my goal was to focus on releasing the essential part of the server.
+
 ## DevLog #17 - 10.05.2023
 
 Hello everybody!
