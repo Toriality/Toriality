@@ -1,4 +1,10 @@
-# Toriality's DevLogs
+# 📢 ALERT
+
+### The DevLog has been moved to a new repository!<br>
+
+**[Click here to access it!](https://github.com/Toriality/my-devlog)**
+
+# OLD: Toriality's DevLogs
 
 **Here I'll share all my projects' progress!**
 
@@ -12,6 +18,10 @@
 
 </details>
 
+<details>
+  <summary>Last entries before repo change</summary>
+  
+  
 ## DevLog #18 - 12.05.2023
 
 Hello everyone, I had a tiring day today, so I'll keep it short because I'm really looking forward to getting some rest. :smile:
@@ -79,3 +89,5 @@ My current plan is to focus on creating a fully functional API, with all the fun
 Once both projects are finished, I will not stop contributing to DYOM, ever :). Instead, I will shift my focus to getting a job and improve skills that will help me achieve my career goals.
 
 Thanks for reading, and I'll be back with more updates soon! ;)
+ </details>
+
