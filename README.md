@@ -8,7 +8,7 @@ Hello! I'm Toriality and I code some stuff for the web.
 
 | Project | Description |
 | - | - |
-| [nIRC] | A simple online chatting platform |
+| [nIRC](https://github.com/Toriality/nirc) | A simple online chatting platform |
 | [Chronotune](https://github.com/Toriality/Chronotune) | Guess the release date of random songs in this online web game |
 | [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
 
