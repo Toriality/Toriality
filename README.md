@@ -8,9 +8,9 @@ Hello! I'm Toriality and I code some stuff for the web.
 
 | Project | Description |
 | - | - |
-| [DYOM Website](https://github.com/Toriality/DYOM-Website) | A remake of the [original DYOM website](https://dyom.gtagames.nl), now including a more modern design and many new functionalities that users were waiting years to it to be implemented! |
-| [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
+| [nIRC] | A simple online chatting platform |
 | [Chronotune](https://github.com/Toriality/Chronotune) | Guess the release date of random songs in this online web game |
+| [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
 
 ### Devlogs
 
