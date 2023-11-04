@@ -2,7 +2,7 @@
 
 ### About me
 
-Hello! I'm Toriality and I code some stuff for the web.
+Hello! I'm Toriality and I code some stuff for the web. Currently a web developer and indie game developer.
 
 ### Main Projects
 
