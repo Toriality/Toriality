@@ -4,10 +4,16 @@
 
 Hello! I'm Toriality and I code some stuff for the web. Currently a web developer and indie game developer.
 
+### My Portfolio
+
+[Check my portfolio!](https://toriality.vercel.app)
+
 ### Main Projects
 
 | Project | Description |
 | - | - |
+| [EmojiGuesser](https://github.com/Toriality/emojiguesser) | Guess random emojis! 😎 |
+| [HexGuesser](https://github.com/Toriality/hexguesser) | Test your color knowledge in this fun guessing game |
 | [nIRC](https://github.com/Toriality/nirc) | A simple online chatting platform |
 | [Chronotune](https://github.com/Toriality/Chronotune) | Guess the release date of random songs in this online web game |
 | [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
