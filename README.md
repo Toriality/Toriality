@@ -18,6 +18,8 @@ Hello! I'm Toriality and I code some stuff for the web. Currently a web develope
 | [Chronotune](https://github.com/Toriality/Chronotune) | Guess the release date of random songs in this online web game |
 | [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
 
+---
+
 <div>
   <a href="http://github.com/Toriality">
    <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=toriality&count_private=true&hide=issues&show_icons=true&theme=material-palenight">
