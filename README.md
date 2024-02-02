@@ -1,29 +1,44 @@
-## Welcome to my GitHub profile!
+# 👋 Welcome to my GitHub page!
 
-### About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=00F777&random=false&width=435&lines=Software+Engineer;Web+Developer;a+human+being)](https://git.io/typing-svg)
 
-Hello! I'm Toriality and I code some stuff for the web. Currently a web developer and indie game developer.
+## 💻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-### My Portfolio
+Hello! I'm Pedro, a Brazilian 23y web developer and software engineer, holding a degree in Information Systems from [Universidade Estácio de Sá](https://estacio.br/).
 
-[Check my portfolio!](https://toriality.vercel.app)
+I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and connect with me on my [social media platforms 🌐](https://toriality.vercel.app/contact).
 
-### Main Projects
+## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜
 
-| Project | Description |
-| - | - |
-| [EmojiGuesser](https://github.com/Toriality/emojiguesser) | Guess random emojis! 😎 |
-| [HexGuesser](https://github.com/Toriality/hexguesser) | Test your color knowledge in this fun guessing game |
-| [nIRC](https://github.com/Toriality/nirc) | A simple online chatting platform |
-| [Chronotune](https://github.com/Toriality/Chronotune) | Guess the release date of random songs in this online web game |
-| [DYOM Bingo](https://github.com/Toriality/DYOM-Bingo) | A Bingo game to play with your friends in a GTA SA Rainbomizer DYOM match! |
+<img align="right" height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&exclude_repo=DYOM&theme=material-palenight&layout=compact">
+
+<table>
+<thead>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Front-End</th>
+    <th>Back-end</th>
+    <th>Databases</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>  
+      <img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="Javascript, Typescript, Java and Python" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="NodeJS and Express" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
-<div>
-  <a href="http://github.com/Toriality">
-   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=toriality&count_private=true&hide=issues&show_icons=true&theme=material-palenight">
-   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&exclude_repo=DYOM&theme=material-palenight&layout=compact">
-  </a>
-</div>
-
+###### ***Remember to smile*** 😊
