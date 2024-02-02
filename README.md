@@ -4,13 +4,13 @@
 
 ## 💻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
+<img align="right" height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&exclude_repo=DYOM&theme=material-palenight&layout=compact">
+
 Hello! I'm Pedro, a Brazilian 23y web developer and software engineer, holding a degree in Information Systems from [Universidade Estácio de Sá](https://estacio.br/).
 
 I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and connect with me on my [social media platforms 🌐](https://toriality.vercel.app/contact).
 
 ## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜
-
-<img align="right" height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality&exclude_repo=DYOM&theme=material-palenight&layout=compact">
 
 <table>
 <thead>
