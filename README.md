@@ -27,13 +27,13 @@ I love making creative things, I try to be as innovative as possible in my proje
       <img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="Javascript, Typescript, Java and Python" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next and Tailwind" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express" alt="NodeJS and Express" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="SQLite, MySQL and MongoDB" />
     </td>
   </tr>
 </tbody>
