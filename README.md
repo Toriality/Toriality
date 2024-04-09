@@ -8,7 +8,7 @@
 
 Hello! I'm Pedro, a Brazilian 23y web developer and software engineer, holding a degree in Information Systems from [Universidade Estácio de Sá](https://estacio.br/).
 
-I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and connect with me on my [social media platforms 🌐](https://toriality.vercel.app/contact).
+I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and contacting me anytime you want.
 
 ## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜
 
